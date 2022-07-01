@@ -1,0 +1,46 @@
+
+	body
+	{
+		background:black;
+		text-transform: capitalize;
+		color:white;
+		
+	}
+	
+	#first, #second
+	{
+		display:block;
+		margin: 10px;
+	}
+	
+	#div
+	{
+		margin:8px;
+	}
+	
+	.father
+	{
+		background:#333230;
+		width:263px;
+		padding: 10px;
+	}
+	
+	#another
+	{
+		margin:10px;
+		padding:10px;
+		background:white;
+		color:black;
+		width:263px;
+	}
+	div
+	{
+		margin:10px;
+		padding:10px;
+	
+	}
+	
+	span
+	{
+		
+	}
